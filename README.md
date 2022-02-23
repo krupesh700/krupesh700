@@ -1,4 +1,2 @@
 - 👋 Hello, I’m Krupesh.
-- 👀 I’m interested in AI & ML Projects.
-- 🌱 I’m currently learning DevOps.
-- 📫 reach me: krupeshpatel7898@gmail.com
+- 👀 I’m interested in DevOps.
